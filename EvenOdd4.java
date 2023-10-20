@@ -1,5 +1,5 @@
 package com.shantanu.assignment;
-
+//ASSIGNMENT1 ADDED TO GITHUB
 import java.util.Scanner;
 
 public class EvenOdd4 {
